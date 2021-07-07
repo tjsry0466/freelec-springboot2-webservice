@@ -3,4 +3,4 @@
 .idea
 
 # oauth
-application.oauth.properties
+application-oauth.properties
